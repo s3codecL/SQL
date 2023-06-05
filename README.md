@@ -1,6 +1,6 @@
 # [PSQL by s3codecL](https://github.com/s3codecL)
-## M5 Entender el control de transacciones para un buen manejo de las operaciones en los sistemas de base de datos.
-#### En el siguiente módulo revisaremos conceptos básicos sobre sql para desarrollar los ejercicios planteados.
+## **M5 Entender el control de transacciones para un buen manejo de las operaciones en los sistemas de base de datos.**
+#### ***En el siguiente módulo revisaremos conceptos básicos sobre sql para desarrollar los ejercicios planteados.***
 
 <details><summary>ESTRUCTURA DEL MÓDULO 5</summary>
 <p>
