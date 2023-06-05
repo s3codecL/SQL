@@ -16,7 +16,7 @@ xfd = FINAL DRILLING
 </p>
 </details>
 
-- [x] Definición de base de datos. ./
+- [x] Definición de base de datos.
 - [ ] Modelos de bases de datos. 
 - [ ] Bases de Datos Relacionales.
 - [ ] Componentes de una base de datos relacional.
@@ -54,6 +54,7 @@ tiempo y la aparición de otros más ágiles, han ido cayendo en desuso.
 
 ### BASES DE DATOS RELACIONALES
 Tienen dos componentes principales: la “Entidad” y las “Relaciones”
+
 ***Entidad:*** es la unidad que representa lógicamente un conjunto finito de datos del mismo tipo, por
 ejemplo: Clientes, Ventas, Pagos, entre otros; donde cada uno de estos son entidades.
 
@@ -136,7 +137,7 @@ Colección organizada de información estructurada o datos, típicamente almacen
 electrónicamente en un sistema de computadora.
 #### BASE DE DATOS RELACIONAL
 Colección de tablas que guardan información de forma estructurada.
-####CARDINALIDAD
+#### CARDINALIDAD
 Número de entidades con la cual otra entidad se puede asociar mediante una relación binaria.
 #### DDL
 Lenguaje que permite a los programadores llevar a cabo las tareas de definición de estructuras
@@ -196,5 +197,12 @@ Lenguaje estándar para almacenar, manipular y recuperar datos en bases de datos
 #### TABLA
 Tipo de modelado de datos, donde se guardan aquellos recogidos por un programa. Su estructura
 general se asemeja a la vista de un programa de hoja de cálculo.
+
+Referencia Talento Digital Chile.[^1].
+
+Resumen Módulo 5 Fundamentos de Bases de Datos Relacionales.[^2].
+
+[^1]: Referencia Talento Digital Chile.
+[^2]: Resumen Módulo 5 Fundamentos de Bases de Datos Relacionales.
 
 [s3codecL](https://github.com/s3codecL)
